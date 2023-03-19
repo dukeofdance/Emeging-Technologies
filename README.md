@@ -4,6 +4,12 @@ Jonathan Narine - 100741302
 
 Ehren Chan - 100753167
 ____________________________________________
+Assignment : 
+
+Youtube Link: 
+
+Google Drive Video Link: 
+____________________________________________
 Assignment 2: 
 
 Youtube Link: https://youtu.be/0sTV1hI-6Kc
