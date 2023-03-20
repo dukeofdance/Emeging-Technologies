@@ -9,6 +9,9 @@ Assignment 4:
 Youtube Link: 
 
 Google Drive Video Link: 
+
+"We used UMA (Unity Multipurpose Avatar) as one of our prototype in the testing process, specifically using one of their scenes called UMA DCS Demo. In addition, we incorporated UMA into our software to compensate for the basic component of a character customizer and to better showcase the functionality of our product. We acknowledge and appreciate the contributions of UMA to our development process."
+https://assetstore.unity.com/packages/3d/characters/uma-2-unity-multipurpose-avatar-35611
 ____________________________________________
 Assignment 2: 
 
