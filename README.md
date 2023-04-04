@@ -18,3 +18,16 @@ Assignment 2:
 Youtube Link: https://youtu.be/0sTV1hI-6Kc
 
 Google Drive Video Link: https://drive.google.com/file/d/145xtbwK1OW4ERJL6iX-zz_a8te48tyvH/view?usp=share_link
+____________________________________________
+
+Final Project
+
+Youtube Link: https://youtu.be/9VkFjzmlSUs
+
+This project is split up into two parts:
+
+The Functionality for the menu to customizer is: NewMain
+
+The Functionality for the use of movement and selecting in the customizer is Jonathan
+
+The Build in both will be in this google drive link: https://drive.google.com/drive/folders/1wrwfYqIaar39c_iY1WKF2NvpPW2CxU9B?usp=sharing
